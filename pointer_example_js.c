@@ -1,6 +1,6 @@
 /* -----------------------------------------------------------------------------
 
-Program file:   sloanp4.c
+Program file:   pointer_example_js.c
 Author:         Jared Sloan
 Email:          jaredpsloan@gmail.com
 Date:           March 12th, 2015 
